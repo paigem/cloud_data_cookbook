@@ -1,0 +1,9 @@
+---
+name: Cloud Data Cookbook
+description: >-
+  How to work with geoscience data on the cloud.
+gallery_repository: pangeo-gallery/pangeo-gallery
+binder_url: "https://binder.pangeo.io"
+binder_repo: pangeo-gallery/default-binder
+binder_ref: master
+binderbot_target_branch: binderbot-built
